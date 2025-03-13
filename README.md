@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm George</h1>
 <h3 align="center">A Computer Science major in the Honors College at Clemson University</h3>
 
-- 🔭 I’m currently working at [Amwins](https://www.amwins.com/)
+- 🔭 I’m currently interning at [Amwins](https://www.amwins.com/)
 
-- 🌱 I’m currently learning **Java, C, C++, Python, & Javascript**
+- 🌱 I’m currently learning **Java, C/C++, Python, & Javascript**
 
 - 🕒 My most recent project is [AltSpeakify](https://gh.gcpins.dev/AltSpeakify)
 
@@ -13,7 +13,9 @@
 
 - 📄 Access my resume [here](https://gcpins.github.io/files/resume.pdf)
 
-- ⚡ A fun fact about me is I have a **Private Pilot's License**
+- ⚡ Fun facts about me: 
+ - I have a **Private Pilot's License** (I received my license in November 2022)
+ - I play the piano (I've been practicing for over 12 years)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
