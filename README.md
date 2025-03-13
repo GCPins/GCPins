@@ -7,7 +7,7 @@
 
 - 🕒 My most recent project is [AltSpeakify](https://gh.gcpins.dev/AltSpeakify)
 
-- 👨‍💻 View all of [my projects](https://gh.gcpins.dev)
+- 👨‍💻 View all of [my projects](https://github.com/GCPins?tab=repositories)
 
 - 📫 Want to [**email me?**](mailto:gsatkin@clemson.edu)
 
