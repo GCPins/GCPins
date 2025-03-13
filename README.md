@@ -15,7 +15,7 @@
 
 - ⚡ Fun facts about me: 
   - I have a **Private Pilot's License** (I received my license in November 2022)
-  - I play the piano (I've been practicing for over 12 years)
+  - I play the **piano** (I've been practicing for over 12 years)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
