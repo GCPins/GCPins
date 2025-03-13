@@ -11,9 +11,9 @@
 
 - 📫 Want to [**email me?**](mailto:gsatkin@clemson.edu)
 
-- 📄 Access me resume [here](https://gcpins.github.io/files/resume.pdf)
+- 📄 Access my resume [here](https://gcpins.github.io/files/resume.pdf)
 
-- ⚡ Fun fact **I have a Private Pilot's License**
+- ⚡ A fun fact about me is **I have a Private Pilot's License**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
