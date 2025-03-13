@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://gh.gcpins.dev](https://gh.gcpins.dev)
 
-- 📫 How to reach me **george.atkinson04@gmail.com**
+- 📫 How to reach me **gsatkin@clemson.edu**
 
 - 📄 Know about my experiences [https://gcpins.github.io/files/resume.pdf](https://gcpins.github.io/files/resume.pdf)
 
