@@ -7,11 +7,11 @@
 
 - 🕒 My most recent project is [AltSpeakify](https://gh.gcpins.dev/AltSpeakify)
 
-- 👨‍💻 All of my projects are available at [https://gh.gcpins.dev](https://gh.gcpins.dev)
+- 👨‍💻 View all of [my projects](https://gh.gcpins.dev)
 
-- 📫 How to reach me **gsatkin@clemson.edu**
+- 📫 Want to [**email me?**](gsatkin@clemson.edu)
 
-- 📄 Know about my experiences [https://gcpins.github.io/files/resume.pdf](https://gcpins.github.io/files/resume.pdf)
+- 📄 Access me resume [here](https://gcpins.github.io/files/resume.pdf)
 
 - ⚡ Fun fact **I have a Private Pilot's License**
 
