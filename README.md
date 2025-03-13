@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm George</h1>
-<h3 align="center">I am a Computer Science major in the Honors College at Clemson University</h3>
+<h3 align="center">A Computer Science major in the Honors College at Clemson University</h3>
 
 - 🔭 I’m currently working at [Amwins](https://www.amwins.com/)
 
