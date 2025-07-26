@@ -9,9 +9,9 @@
 
 - 👨‍💻 View all of [my projects](https://github.com/GCPins?tab=repositories)
 
-- 📫 Want to [**email me?**](mailto:gsatkin@clemson.edu)
+- 📫 Want to [email me?](mailto:gsatkin@clemson.edu)
 
-- 📄 Access my resume [here](https://gcpins.github.io/files/resume.pdf)
+- 📄 Access my resume [**here**](https://gcpins.github.io/files/resume.pdf)
 
 - ⚡ Fun facts about me: 
   - ✈️ I have a **Private Pilot's License** (I received my license in November 2022)
