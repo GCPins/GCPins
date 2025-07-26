@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java, SQL, C/C++, Python, & Javascript**
 
-- 🕒 My most recent project is [AltSpeakify](https://gh.gcpins.dev/AltSpeakify)
+- 🕒 My most recent project is [AltSpeakify](https://github.com/GCPins/AltSpeakify)
 
 - 👨‍💻 View all of [my projects](https://github.com/GCPins?tab=repositories)
 
