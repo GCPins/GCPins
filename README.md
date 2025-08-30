@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm George</h1>
 <h3 align="center">A Computer Science major in the Honors College at Clemson University</h3>
 
-- 🔭 I previously interned at [Amwins](https://www.amwins.com/)
+- 🔭 I'm currently interning at [Amwins](https://www.amwins.com/)
 
 - 🌱 I’m currently learning **Java, SQL, C/C++, Python, & Javascript**
 
