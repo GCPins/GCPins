@@ -9,7 +9,7 @@
 
 - 👨‍💻 View all of [my projects](https://github.com/GCPins?tab=repositories)
 
-- 📫 Want to [email me?](mailto:gsatkin@clemson.edu)
+- 📫 Send me an [email](mailto:gsatkin@clemson.edu)
 
 - 📄 Access my resume [**here**](https://gcpins.github.io/files/resume.pdf)
 
