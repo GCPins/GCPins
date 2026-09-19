@@ -11,7 +11,7 @@
 
 - 👨‍💻 View all of [my projects](https://github.com/GCPins?tab=repositories)
 
-- 📫 Send me an [email](mailto:gsatkin@clemson.edu)
+- 📫 Send me an [email](mailto:hireme@gsatkin.com)
 
 - 📄 Access my resume [**here**](https://me.gcpins.dev/cv/)
 
