@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java, SQL, C/C++, Python, Ruby, & Javascript**
 
-- 🕒 My most recent project is [AltSpeakify](https://github.com/GCPins/AltSpeakify)
+- 🕒 My two most recent projects are [TigerTracker](https://devpost.com/software/tiger-tracker-4r6dqw) and [AltSpeakify](https://github.com/GCPins/AltSpeakify)
 
 - 👨‍💻 View all of [my projects](https://github.com/GCPins?tab=repositories)
 
