@@ -5,7 +5,7 @@
 
 - 🐯 I'm also working part-time as a TA for Clemson's School of Computing
 
-- 🌱 I’m currently learning **Java, SQL, C/C++, Python, Ruby, & Javascript**
+- 🌱 I’m currently learning **SQL, C, Java, Python, Go, Javascript, C++, && Ruby**
 
 - 🕒 My two most recent projects are [TigerTracker](https://devpost.com/software/tiger-tracker-4r6dqw) and [AltSpeakify](https://github.com/GCPins/AltSpeakify)
 
