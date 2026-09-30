@@ -15,6 +15,8 @@
 
 - 📄 Access my resume [**here**](https://me.gcpins.dev/cv/)
 
+- 🎓 I'm also double minoring in Mathematical Sciences and Physics
+
 - ⚡ Fun facts about me: 
   - ✈️ I have a **Private Pilot's License** (I received my license in November 2022)
   - 🎹 I play the **piano** (I've been practicing for over 12 years)
