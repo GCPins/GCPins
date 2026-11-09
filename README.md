@@ -2,7 +2,7 @@
 <h3 align="center">A Computer Science major in the Honors College at Clemson University</h3>
 
 - 🎓 I'm also double minoring in Mathematical Sciences and Physics
-- 
+
 - 🔭 I'm currently a part-time intern at [Amwins](https://www.amwins.com/) and [TD Synnex](https://tdsynnex.com)
 
 - 🐯 I'm also working part-time as a TA for Clemson's School of Computing
